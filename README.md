@@ -1,6 +1,6 @@
 # Percentage-Calculator
 This is My first app
-Percentage Calculator app  / เเอปคำนวณเปรอร์เซนต์ <br/> 
+Percentage Calculator app  / เเอปคำนวณเปอร์เซนต์ <br/> 
 -------------------------------------------<br/>
 การใช้งาน <br/>
 -------------------------------------------
